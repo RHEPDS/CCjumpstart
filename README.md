@@ -19,7 +19,7 @@
 
 12:35		BREAK
 
-13:15		Workload on OpenShift (running existing Containers, Source to Image, 
+13:15		Workload on OpenShift (running existing Containers, Source to Image,) 
 
 14:15		OpenShift Virtualisation
 
