@@ -3,7 +3,7 @@
 ## for Computacenter UK
 ### London 13.10.2023
 
-Link to mentimeter: https://www.menti.com/alk93ya4ssjf
+## Link to mentimeter: https://www.menti.com/alk93ya4ssjf
 
 ## Agenda
 
